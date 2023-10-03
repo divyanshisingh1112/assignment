@@ -1,0 +1,9 @@
+ward_no,disease,patient_id,f_name,l_name
+1,'Flu',1001,'John','Doe'
+2,'COVID-19',1002,'Jane','Smith'
+1,'Chickenpox',1003,'James','Brown'
+3,'Malaria',1004,'Lisa','White'
+2,'Flu',1005,'Robert','Johnson'
+4,'COVID-19',1006,'Mary','Lee'
+3,'Chickenpox',1007,'Linda','Green'
+1,'Malaria',1008,'Michael','Miller'
